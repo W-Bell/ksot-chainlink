@@ -1,5 +1,3 @@
-# ksot-chainlink
-
 # KSOT — Crowd Sourced Observable Truth
 
 **"See Truth"**
