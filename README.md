@@ -6,7 +6,7 @@
 
 A Chainlink-native **visual consensus oracle** that turns public photos into reliable on-chain attestations for Real World Assets (RWAs) and real-world events.
 
-
+![KSOT Banner](https://github.com/W-Bell/ksot-chainlink/assets/ksot-banner.png)
 ---
 
 ## 🎯 What is KSOT?
